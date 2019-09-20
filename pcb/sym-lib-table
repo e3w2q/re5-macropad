@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name sqnb5-rescue)(type Legacy)(uri ${KIPRJMOD}/sqnb5-rescue.lib)(options "")(descr ""))
+  (lib (name "#library")(type Legacy)(uri ${KIPRJMOD}/library.lib)(options "")(descr ""))
+)
