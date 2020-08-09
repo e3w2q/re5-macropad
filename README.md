@@ -21,7 +21,7 @@ I made it open source so that anyone interested in self-made keyboard could try 
 
 [PCB Order Guide](https://github.com/e3w2q/re5-macropad-doc/blob/master/pcb_order_guide.md) / [PCBの入手方法](https://github.com/e3w2q/re5-macropad-doc/blob/master/pcb_order_guide_jp.md)
 
-[Firmware](https://github.com/e3w2q/qmk_firmware/tree/master/keyboards/e3w2q/re5)
+[Firmware](https://github.com/e3w2q/qmk_firmware/tree/e3w2q/keyboards/e3w2q/re5)
 
 [ビルドガイド](https://github.com/e3w2q/re5-macropad-doc/blob/master/readme_jp.md)
 
